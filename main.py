@@ -1,8 +1,4 @@
-"""
-Created on Nov 30, 2011
 
-@author: achernetz
-"""
 from src.data.IntradayData import DownloadIntradayData
 from datetime import datetime, time
 from src.algorithm.MACD import fetch_macd_crossovers
